@@ -1,0 +1,23 @@
+{
+  "name": "vessel-detection-book",
+  "version": "1.0.0",
+  "description": "this is a honkit repository for the vessel-detection repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashharuki/vessel-detection-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mashharuki/vessel-detection-book/issues"
+  },
+  "homepage": "https://github.com/mashharuki/vessel-detection-book#readme",
+  "dependencies": {
+    "honkit": "^3.7.1"
+  }
+}
